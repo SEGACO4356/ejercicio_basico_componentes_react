@@ -1,0 +1,11 @@
+.nombres{
+  color: #000;
+}
+.box{
+  display: flex;
+  background-color: aliceblue;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
